@@ -112,7 +112,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ------------------
 ### ☘️ ACTIVAR EN KOYEB 
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/GataNina-Li/GataBot-MD&branch=master&name=gatabot-md)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/akida15/GataBot-MD&branch=master&name=gatabot-md)
 
 ------------------
 ### ACTIVAR POR TERMUX - GITHUB <a href="https://github.com/GataNina-Li/GataBot-MD"> <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-violet.png" height="40px"> </a>
